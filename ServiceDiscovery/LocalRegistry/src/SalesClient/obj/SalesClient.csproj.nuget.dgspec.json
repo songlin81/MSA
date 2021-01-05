@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\LocalRegistry\\src\\SalesClient\\SalesClient.csproj",
-        "projectName": "SchoolClient",
+        "projectName": "SalesClient",
         "projectPath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\LocalRegistry\\src\\SalesClient\\SalesClient.csproj",
         "packagesPath": "C:\\Users\\v0cn140\\.nuget\\packages\\",
         "outputPath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\LocalRegistry\\src\\SalesClient\\obj\\",

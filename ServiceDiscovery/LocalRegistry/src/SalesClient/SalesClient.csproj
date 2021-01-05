@@ -1,13 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <AssemblyName>SchoolClient</AssemblyName>
+    <AssemblyName>SalesClient</AssemblyName>
     <OutputType>Exe</OutputType>
-    <PackageId>SchoolClient</PackageId>
+    <PackageId>SalesClient</PackageId>
     <AssetTargetFallback>$(AssetTargetFallback);dotnet5.6;portable-net45+win8</AssetTargetFallback>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <Authors>SalesClient</Authors>
   </PropertyGroup>
   <ItemGroup>
     <Content Include="appsettings.json">

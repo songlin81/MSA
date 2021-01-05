@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UuWJHB39yCMvsDfK2JXDZk2R9DV7gTP8eE2kYhI0yIIOJOGudCOnsh1aegyJtxBKqe/+ipA6hDetWEzwhAhbSA==",
+  "dgSpecHash": "pWKYYBWN2fZfvSZqlYoywuFpvY23XIcia2LTTcWc4H2mQwahCrL1ZbijXwLqTA6mc5p8IgaiMTi6AW6MrntevQ==",
   "success": true,
   "projectFilePath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesClient\\SalesClient.csproj",
   "expectedPackageFiles": [

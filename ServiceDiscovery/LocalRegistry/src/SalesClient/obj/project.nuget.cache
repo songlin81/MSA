@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zk5LFjiREhon8RHkMiXwTKzvJQkVj2P21KUA2/bNWuY5W/bYoxjVCn8mMMQADlLyNNu27kmZHkSK7tqjumvMFA==",
+  "dgSpecHash": "4SQt9hIuYznwQnBbLAyYceq3gfz+KPbzLh+6GW6D8KcVCzzAQ2s9sBXx69JgNRlsu38dFYRBJg6ggS9iBKRUEQ==",
   "success": true,
   "projectFilePath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\LocalRegistry\\src\\SalesClient\\SalesClient.csproj",
   "expectedPackageFiles": [

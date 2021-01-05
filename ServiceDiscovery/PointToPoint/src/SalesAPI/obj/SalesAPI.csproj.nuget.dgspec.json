@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesAPI\\SalesAPI.csproj",
-        "projectName": "SchoolAPI",
+        "projectName": "SalesAPI",
         "projectPath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesAPI\\SalesAPI.csproj",
         "packagesPath": "C:\\Users\\v0cn140\\.nuget\\packages\\",
         "outputPath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesAPI\\obj\\",
