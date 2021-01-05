@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Polly/7.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polly/7.2.1": {
+      "sha512": "Od8SnPlpQr+PuAS0YzY3jgtzaDNknlIuAaldN2VEIyTvm/wCg22C5nUkUV1BEG8rIsub5RFMoV/NEQ0tM/+7Uw==",
+      "type": "package",
+      "path": "polly/7.2.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Polly.dll",
+        "lib/net461/Polly.pdb",
+        "lib/net461/Polly.xml",
+        "lib/net472/Polly.dll",
+        "lib/net472/Polly.pdb",
+        "lib/net472/Polly.xml",
+        "lib/netstandard1.1/Polly.dll",
+        "lib/netstandard1.1/Polly.pdb",
+        "lib/netstandard1.1/Polly.xml",
+        "lib/netstandard2.0/Polly.dll",
+        "lib/netstandard2.0/Polly.pdb",
+        "lib/netstandard2.0/Polly.xml",
+        "polly.7.2.1.nupkg.sha512",
+        "polly.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Polly >= 7.2.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\v0cn140\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\repo\\2021\\MSA\\Polly\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj",
+      "projectName": "RetryApi",
+      "projectPath": "C:\\repo\\2021\\MSA\\Polly\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj",
+      "packagesPath": "C:\\Users\\v0cn140\\.nuget\\packages\\",
+      "outputPath": "C:\\repo\\2021\\MSA\\Polly\\CircuitBreakerPolicy\\RetryApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\v0cn140\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\src\\Dev\\2019.3\\CustomerDoc\\Source\\ReportingService\\packages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "Polly": {
+            "target": "Package",
+            "version": "[7.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
