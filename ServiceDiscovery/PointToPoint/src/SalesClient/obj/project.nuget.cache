@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KwYBx65ECktvElPBYMdEwkOIyWLxXyk0mCuAuc5KkkIzWsR9HOX8ZuQH6CUh4I1cgkNNx5eYxy36Z6r0Vse0Cg==",
+  "dgSpecHash": "UuWJHB39yCMvsDfK2JXDZk2R9DV7gTP8eE2kYhI0yIIOJOGudCOnsh1aegyJtxBKqe/+ipA6hDetWEzwhAhbSA==",
   "success": true,
-  "projectFilePath": "C:\\repo\\2021\\Polly\\aspnet-servicediscovery-patterns-master\\point_to_point\\src\\SalesClient\\SalesClient.csproj",
+  "projectFilePath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesClient\\SalesClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\v0cn140\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\v0cn140\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",

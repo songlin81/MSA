@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b8lyuueH/Fnn+/tYp4OXvtl7ZpPpSSZy/MT3B0hOpyrA5JwKU3EobR9CvNdasNjuqt+4EsEQQBdF9NM5u9du+A==",
+  "dgSpecHash": "Y8DC/6Swl4ZPQpenjFi3EdTAZp4DKw3+BAB47k/HXb81PDAKAtnLUTtEBpQELkiaecoH2uJLi8C0B9EtEjFPSA==",
   "success": true,
-  "projectFilePath": "C:\\repo\\2021\\Polly\\aspnet-servicediscovery-patterns-master\\point_to_point\\src\\SalesAPI\\SalesAPI.csproj",
+  "projectFilePath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesAPI\\SalesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\v0cn140\\.nuget\\packages\\bogus\\15.0.6\\bogus.15.0.6.nupkg.sha512",
     "C:\\Users\\v0cn140\\.nuget\\packages\\libuv\\1.10.0\\libuv.1.10.0.nupkg.sha512",

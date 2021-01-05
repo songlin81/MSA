@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\2021\\Polly\\aspnet-servicediscovery-patterns-master\\point_to_point\\src\\SalesAPI\\SalesAPI.csproj": {}
+    "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesAPI\\SalesAPI.csproj": {}
   },
   "projects": {
-    "C:\\repo\\2021\\Polly\\aspnet-servicediscovery-patterns-master\\point_to_point\\src\\SalesAPI\\SalesAPI.csproj": {
+    "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesAPI\\SalesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\2021\\Polly\\aspnet-servicediscovery-patterns-master\\point_to_point\\src\\SalesAPI\\SalesAPI.csproj",
+        "projectUniqueName": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesAPI\\SalesAPI.csproj",
         "projectName": "SchoolAPI",
-        "projectPath": "C:\\repo\\2021\\Polly\\aspnet-servicediscovery-patterns-master\\point_to_point\\src\\SalesAPI\\SalesAPI.csproj",
+        "projectPath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesAPI\\SalesAPI.csproj",
         "packagesPath": "C:\\Users\\v0cn140\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\2021\\Polly\\aspnet-servicediscovery-patterns-master\\point_to_point\\src\\SalesAPI\\obj\\",
+        "outputPath": "C:\\repo\\2021\\MSA\\ServiceDiscovery\\PointToPoint\\src\\SalesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
