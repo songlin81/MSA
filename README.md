@@ -24,5 +24,5 @@ This repo contains Service Discovery patterns with ASP.NET Core using tools like
  dotnet build && dotnet run
 ```
 
-- [Retry](Polly/RetryPolicy)
-- [Circuit Breaker](Polly/CircuitBreakerPolicy)
+- [Retry](ResiliencePolicies/RetryPolicy)
+- [Circuit Breaker](ResiliencePolicies/CircuitBreakerPolicy)
