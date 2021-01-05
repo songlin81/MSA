@@ -8,3 +8,7 @@ This repo contains Service Discovery patterns with ASP.NET Core using tools like
 - [Self Registration](ServiceDiscovery/SelfRegistration)
 - [Health Checks](ServiceDiscovery/HealthChecks)
 - [Load Balancing](ServiceDiscovery/LoadBalancing)
+
+### Preview
+![](https://github.com/songlin81/MSA/tree/main/ServiceDiscovery/Tool/consul.png)
+![](https://github.com/songlin81/MSA/tree/main/ServiceDiscovery/Tool/console.png)

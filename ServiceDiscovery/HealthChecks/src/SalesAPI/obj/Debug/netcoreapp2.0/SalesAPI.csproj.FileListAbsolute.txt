@@ -1,0 +1,15 @@
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\bin\Debug\netcoreapp2.0\web.config
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\bin\Debug\netcoreapp2.0\appsettings.json
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\obj\Debug\netcoreapp2.0\SalesAPI.csprojAssemblyReference.cache
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\obj\Debug\netcoreapp2.0\SalesAPI.AssemblyInfoInputs.cache
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\obj\Debug\netcoreapp2.0\SalesAPI.AssemblyInfo.cs
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\obj\Debug\netcoreapp2.0\SalesAPI.csproj.CoreCompileInputs.cache
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\obj\Debug\netcoreapp2.0\SalesAPI.genruntimeconfig.cache
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\bin\Debug\netcoreapp2.0\SalesAPI.deps.json
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\bin\Debug\netcoreapp2.0\SalesAPI.runtimeconfig.json
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\bin\Debug\netcoreapp2.0\SalesAPI.runtimeconfig.dev.json
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\bin\Debug\netcoreapp2.0\SalesAPI.dll
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\bin\Debug\netcoreapp2.0\SalesAPI.pdb
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\obj\Debug\netcoreapp2.0\SalesAPI.dll
+C:\repo\2021\MSA\ServiceDiscovery\HealthChecks\src\SalesAPI\obj\Debug\netcoreapp2.0\SalesAPI.pdb
