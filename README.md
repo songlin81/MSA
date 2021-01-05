@@ -11,8 +11,8 @@ This repo contains Service Discovery patterns with ASP.NET Core using tools like
 
 ### Preview
 <p float="left";>
-	<img src="https://raw.githubusercontent.com/songlin81/MSA/master/ServiceDiscovery/Tool/consul.jpg" alt="Consul" width="200"/>
+	<img src="https://raw.githubusercontent.com/songlin81/MSA/master/ServiceDiscovery/Tool/consul.jpg" alt="Consul" width="400"/>
 </p>
 <p float="left";>
-	<img src="https://raw.githubusercontent.com/songlin81/MSA/master/ServiceDiscovery/Tool/console.jpg" alt="Console" width="200"/>
+	<img src="https://raw.githubusercontent.com/songlin81/MSA/master/ServiceDiscovery/Tool/console.jpg" alt="Console" width="400"/>
 </p>
