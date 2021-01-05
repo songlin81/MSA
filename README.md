@@ -16,3 +16,13 @@ This repo contains Service Discovery patterns with ASP.NET Core using tools like
 <p float="left";>
 	<img src="https://raw.githubusercontent.com/songlin81/MSA/master/ServiceDiscovery/Tool/console.jpg" alt="Console" width="600"/>
 </p>
+
+
+# Polly 
+### Resilience policies
+```
+ dotnet build && dotnet run
+```
+
+- [Retry](Polly/RetryPolicy)
+- [Circuit Breaker](Polly/CircuitBreakerPolicy)
