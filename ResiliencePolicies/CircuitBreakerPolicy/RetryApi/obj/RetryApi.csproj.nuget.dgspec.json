@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repo\\2021\\MSA\\Polly\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj": {}
+    "C:\\repo\\2021\\MSA\\ResiliencePolicies\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj": {}
   },
   "projects": {
-    "C:\\repo\\2021\\MSA\\Polly\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj": {
+    "C:\\repo\\2021\\MSA\\ResiliencePolicies\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repo\\2021\\MSA\\Polly\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj",
+        "projectUniqueName": "C:\\repo\\2021\\MSA\\ResiliencePolicies\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj",
         "projectName": "RetryApi",
-        "projectPath": "C:\\repo\\2021\\MSA\\Polly\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj",
+        "projectPath": "C:\\repo\\2021\\MSA\\ResiliencePolicies\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj",
         "packagesPath": "C:\\Users\\v0cn140\\.nuget\\packages\\",
-        "outputPath": "C:\\repo\\2021\\MSA\\Polly\\CircuitBreakerPolicy\\RetryApi\\obj\\",
+        "outputPath": "C:\\repo\\2021\\MSA\\ResiliencePolicies\\CircuitBreakerPolicy\\RetryApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

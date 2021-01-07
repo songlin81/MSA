@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0yLh4HjG2WOLEni5JinKs9WHuulcuLf1sJLynXKOLthkof9Ctm7IYknX/pChwZFzOA0VxViaDs6h91hgRji/tA==",
+  "dgSpecHash": "3GEBjpXIcHSu4uoMrV645CFgAwssUdBcHcutVx4VhLEV/gb8zxRv0p9+QqcKtkIbZRyCYpoQL7uc3WE/2ycAOQ==",
   "success": true,
-  "projectFilePath": "C:\\repo\\2021\\MSA\\Polly\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj",
+  "projectFilePath": "C:\\repo\\2021\\MSA\\ResiliencePolicies\\CircuitBreakerPolicy\\RetryApi\\RetryApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\v0cn140\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512"
   ],
