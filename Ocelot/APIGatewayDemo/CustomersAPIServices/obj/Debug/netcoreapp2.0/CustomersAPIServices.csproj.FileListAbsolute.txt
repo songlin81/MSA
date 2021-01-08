@@ -1,0 +1,13 @@
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.deps.json
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.runtimeconfig.json
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.runtimeconfig.dev.json
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.dll
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\bin\Debug\netcoreapp2.0\CustomersAPIServices.pdb
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.AssemblyInfoInputs.cache
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.AssemblyInfo.cs
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.csproj.CoreCompileInputs.cache
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.dll
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.pdb
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.genruntimeconfig.cache
+C:\repo\2021\MSA\Ocelot\APIGatewayDemo\CustomersAPIServices\obj\Debug\netcoreapp2.0\CustomersAPIServices.csprojAssemblyReference.cache

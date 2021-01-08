@@ -23,6 +23,10 @@ This repo contains Service Discovery patterns with ASP.NET Core using tools like
 ```
  dotnet build && dotnet run
 ```
-
 - [Retry](ResiliencePolicies/RetryPolicy)
 - [Circuit Breaker](ResiliencePolicies/CircuitBreakerPolicy)
+
+
+# Ocelot
+- [APIGateway](Ocelot/APIGatewayDemo)
+- 
