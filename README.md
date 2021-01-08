@@ -28,5 +28,6 @@ This repo contains Service Discovery patterns with ASP.NET Core using tools like
 
 
 # Ocelot
-- [APIGateway](Ocelot/APIGatewayDemo)
-- 
+- [API Gateway](Ocelot/APIGatewayDemo)
+- [JWT Authentication](Ocelot/APIGatewayJWTAuthenticationDemo)
+

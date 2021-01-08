@@ -1,0 +1,15 @@
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\netcoreapp2.0\appsettings.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\netcoreapp2.0\configuration.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.deps.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.runtimeconfig.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.runtimeconfig.dev.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.dll
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\bin\Debug\netcoreapp2.0\APIGateway.pdb
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.csprojAssemblyReference.cache
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.AssemblyInfoInputs.cache
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.AssemblyInfo.cs
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.csproj.CoreCompileInputs.cache
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.dll
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.pdb
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\APIGateway\obj\Debug\netcoreapp2.0\APIGateway.genruntimeconfig.cache

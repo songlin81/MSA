@@ -10,13 +10,13 @@
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Catcher Wong", "James Li" };
+            return new string[] { "Customer 1", "Customer 2" };
         }
 
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return $"Catcher Wong - {id}";
+            return $"Customer - {id}";
         }            
     }
 }

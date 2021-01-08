@@ -1,0 +1,14 @@
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\netcoreapp2.0\appsettings.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.deps.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.runtimeconfig.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.runtimeconfig.dev.json
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.dll
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\bin\Debug\netcoreapp2.0\AuthServer.pdb
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.csprojAssemblyReference.cache
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.AssemblyInfoInputs.cache
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.AssemblyInfo.cs
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.dll
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.pdb
+C:\repo\2021\MSA\Ocelot\APIGatewayJWTAuthenticationDemo\AuthServer\obj\Debug\netcoreapp2.0\AuthServer.genruntimeconfig.cache
