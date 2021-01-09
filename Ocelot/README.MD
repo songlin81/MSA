@@ -43,4 +43,12 @@ dotnet run
 - API Services:			http://localhost:9001/api/values
 - API Gateway:			http://localhost:9000/customers (Reload 3 times the circuit breaker will suspect the next request for predefined 20 seconds)
 
+## Load Balancing
+- API Services: 		http://localhost:9001/api/values (Service A)
+						http://localhost:9002/api/values (Service B)
+- API Gateway			http://localhost:9000/ (Swap between Service A & B)
+
+## 
+
+
 
