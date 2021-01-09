@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>APIServiceA</name>
+    </assembly>
+    <members>
+        <member name="T:APIServiceA.Controllers.ValuesController">
+            <summary>
+            Values controller.
+            </summary>
+        </member>
+        <member name="M:APIServiceA.Controllers.ValuesController.Get">
+            <summary>
+            Get values.
+            </summary>
+            <returns>The get.</returns>
+        </member>
+    </members>
+</doc>

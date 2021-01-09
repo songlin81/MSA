@@ -53,3 +53,6 @@ dotnet run
 - API Service A:		http://localhost:9999/api/values
 - API Service B:		http://localhost:9998/api/values
 - API Gateway:			http://localhost:9000/api/values (results toggled between ports 9999 and 9998)					
+
+## Swagger
+- API Gateway:			http://localhost:9000/swagger/
