@@ -39,5 +39,8 @@ dotnet run
 - API Services:			http://localhost:9001/api/values
 - API Gateway:			http://localhost:9000/customers (trigger request within 5 seconds to observe the 429 status code)
 
-## 
-- 
+## Qos
+- API Services:			http://localhost:9001/api/values
+- API Gateway:			http://localhost:9000/customers (Reload 3 times the circuit breaker will suspect the next request for predefined 20 seconds)
+
+
