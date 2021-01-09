@@ -36,3 +36,4 @@ This repo contains Service Discovery patterns with ASP.NET Core using tools like
 - [Load Balancing](Ocelot/APIGatewayLBDemo)
 - [Service Discovery Consul](Ocelot/APIGatewayConsulDemo)
 - [Swagger](Ocelot/APIGatewaySwaggerDemo)
+- [Request Aggregation](Ocelot/RequestAggregationDemo)

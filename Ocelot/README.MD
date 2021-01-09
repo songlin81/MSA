@@ -56,3 +56,20 @@ dotnet run
 
 ## Swagger
 - API Gateway:			http://localhost:9000/swagger/
+
+## Request Aggregation
+- API Service:			http://localhost:4873/api/ocelot/9
+						http://localhost:4873/api/ocelot/aggrJay
+						http://localhost:4873/api/ocelot/consultJay?id=11
+						http://localhost:4873/api/ocelot/identityJay?id=12
+- API Gateway:			http://localhost:5000/ocelot/9
+						http://localhost:5000/ocelot/aggrJay
+						http://localhost:5000/ocelot/aggrKim
+						http://localhost:5000/ocelot/consultJay?id=111
+						http://localhost:5000/ocelot/identityJay?id=222
+						http://localhost:5000/ocelot/8001/identityJay
+						http://localhost:5000/ocelot/8002/identityJay
+						http://localhost:5000/ocelot/ratelimit/999
+						http://localhost:5000/ocelot/qos/777
+						http://localhost:5000/aggrLeader
+						http://localhost:5000/aggrLeaderAdvanced

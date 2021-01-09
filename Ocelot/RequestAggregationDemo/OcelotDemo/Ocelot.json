@@ -1,0 +1,168 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/ocelot/{postId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/{postId}",
+      "UpstreamHttpMethod": [ "Get" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/ocelot/aggrJay",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/aggrJay",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Key": "aggr_jay",
+      "Priority": 2
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/ocelot/aggrKim",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/aggrKim",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Key": "aggr_kim",
+      "Priority": 2
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/ocelot/aggrError/1",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/aggrError/1",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Key": "aggr_error",
+      "Priority": 2
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/ocelot/consultJay",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/consultJay",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Priority": 2
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/ocelot/identityJay",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/identityJay",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Priority": 2
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/ocelot/identityJay",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/8001/identityJay",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Priority": 2
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/ocelot/identityJay",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/8002/identityJay",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Priority": 2
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/ocelot/{postId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/ratelimit/{postId}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Priority": 2
+    },
+
+    {
+      "DownstreamPathTemplate": "/api/ocelot/{postId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4873
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/qos/{postId}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "Priority": 2
+    }
+  ],
+
+  "Aggregates": [
+    {
+      "ReRouteKeys": [
+        "aggr_jay",
+        "aggr_kim",
+        "aggr_error"
+      ],
+      "UpstreamPathTemplate": "/aggrLeader"
+    },
+    {
+      "ReRouteKeys": [
+        "aggr_jay",
+        "aggr_kim",
+        "aggr_error"
+      ],
+      "UpstreamPathTemplate": "/aggrLeaderAdvanced",
+      "Aggregator": "LeaderAdvancedAggregator"
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:4727"
+  }
+}
