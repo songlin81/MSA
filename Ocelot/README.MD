@@ -48,7 +48,12 @@ dotnet run
 						http://localhost:9002/api/values (Service B)
 - API Gateway			http://localhost:9000/ (Swap between Service A & B)
 
-## 
+## Service Discovery Eureka
+- Eureka Server:		http://localhost:8761/(take copy from https://github.com/spring-cloud-samples/eureka.git and run 'mvn spring-boot:run')
+						\Tool\eureka-master\src\main\resources\application.yml: register-with-eureka: true
 
-
-
+## Service Discovery Consul
+- Consul:				http://localhost:8500/ui/($ consul agent -dev)
+- API Service A:		http://localhost:9999/api/values
+- API Service B:		http://localhost:9998/api/values
+- API Gateway:			http://localhost:9000/api/values (results toggled between ports 9999 and 9998)					

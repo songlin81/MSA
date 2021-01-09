@@ -34,5 +34,5 @@ This repo contains Service Discovery patterns with ASP.NET Core using tools like
 - [Rate Limit](Ocelot/APIGatewayRateLimitDemo)
 - [Qos](Ocelot/APIGatewayQoSDemo)
 - [Load Balancing](Ocelot/APIGatewayLBDemo)
-- [](Ocelot/)
-
+- [Service Discovery Eureka](Ocelot/APIGatewaySDDemo) <---incomplete
+- [Service Discovery Consul](Ocelot/APIGatewayConsulDemo)

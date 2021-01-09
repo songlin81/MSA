@@ -1,0 +1,149 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/values",
+      "UpstreamPathTemplate": "/a",
+      "UpstreamHttpMethod": [
+        "Get"
+      ],
+      "AddHeadersToRequest": {},
+      "UpstreamHeaderTransform": {},
+      "DownstreamHeaderTransform": {},
+      "AddClaimsToRequest": {},
+      "RouteClaimsRequirement": {},
+      "AddQueriesToRequest": {},
+      "RequestIdKey": null,
+      "FileCacheOptions": {
+        "TtlSeconds": 15,
+        "Region": null
+      },
+      "ReRouteIsCaseSensitive": false,
+      "ServiceName": "service-a",
+      "DownstreamScheme": "http",
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 1000,
+        "TimeoutValue": 5000
+      },
+      "LoadBalancerOptions": {
+        "Type": "RoundRobin",
+        "Key": null,
+        "Expiry": 0
+      },
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": false,
+        "Period": null,
+        "PeriodTimespan": 0.0,
+        "Limit": 0
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": null,
+        "AllowedScopes": []
+      },
+      "HttpHandlerOptions": {
+        "AllowAutoRedirect": false,
+        "UseCookieContainer": false,
+        "UseTracing": false
+      },
+      "UseServiceDiscovery": true,
+      "DownstreamHostAndPorts": [],
+      "UpstreamHost": null,
+      "Key": null,
+      "DelegatingHandlers": [],
+      "Priority": 1,
+      "Timeout": 0,
+      "DangerousAcceptAnyServerCertificateValidator": false
+    },
+    {
+      "DownstreamPathTemplate": "/api/values",
+      "UpstreamPathTemplate": "/b",
+      "UpstreamHttpMethod": [
+        "Get"
+      ],
+      "AddHeadersToRequest": {},
+      "UpstreamHeaderTransform": {},
+      "DownstreamHeaderTransform": {},
+      "AddClaimsToRequest": {},
+      "RouteClaimsRequirement": {},
+      "AddQueriesToRequest": {},
+      "RequestIdKey": null,
+      "FileCacheOptions": {
+        "TtlSeconds": 15,
+        "Region": null
+      },
+      "ReRouteIsCaseSensitive": false,
+      "ServiceName": "service-b",
+      "DownstreamScheme": "http",
+      "QoSOptions": {
+        "ExceptionsAllowedBeforeBreaking": 3,
+        "DurationOfBreak": 1000,
+        "TimeoutValue": 5000
+      },
+      "LoadBalancerOptions": {
+        "Type": null,
+        "Key": null,
+        "Expiry": 0
+      },
+      "RateLimitOptions": {
+        "ClientWhitelist": [],
+        "EnableRateLimiting": false,
+        "Period": null,
+        "PeriodTimespan": 0.0,
+        "Limit": 0
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": null,
+        "AllowedScopes": []
+      },
+      "HttpHandlerOptions": {
+        "AllowAutoRedirect": false,
+        "UseCookieContainer": false,
+        "UseTracing": false
+      },
+      "UseServiceDiscovery": true,
+      "DownstreamHostAndPorts": [],
+      "UpstreamHost": null,
+      "Key": null,
+      "DelegatingHandlers": [],
+      "Priority": 1,
+      "Timeout": 0,
+      "DangerousAcceptAnyServerCertificateValidator": false
+    }
+  ],
+  "Aggregates": [],
+  "GlobalConfiguration": {
+    "RequestIdKey": "OcRequestId",
+    "ServiceDiscoveryProvider": {
+      "Host": null,
+      "Port": 0,
+      "Type": "Eureka",
+      "Token": null,
+      "ConfigurationKey": null
+    },
+    "RateLimitOptions": {
+      "ClientIdHeader": "ClientId",
+      "QuotaExceededMessage": null,
+      "RateLimitCounterPrefix": "ocelot",
+      "DisableRateLimitHeaders": false,
+      "HttpStatusCode": 429
+    },
+    "QoSOptions": {
+      "ExceptionsAllowedBeforeBreaking": 0,
+      "DurationOfBreak": 0,
+      "TimeoutValue": 0
+    },
+    "BaseUrl": null,
+    "LoadBalancerOptions": {
+      "Type": null,
+      "Key": null,
+      "Expiry": 0
+    },
+    "DownstreamScheme": null,
+    "HttpHandlerOptions": {
+      "AllowAutoRedirect": false,
+      "UseCookieContainer": false,
+      "UseTracing": false
+    }
+  }
+}
