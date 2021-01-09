@@ -1,0 +1,5 @@
+2021-01-08 21:11:29.0607||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:9000/customers   
+2021-01-08 21:11:29.3337||INFO|Ocelot.RateLimit.Middleware.ClientRateLimitMiddleware|requestId: 0HM5JQRKISDUN:00000001, previousRequestId: no previous request id, message: EndpointRateLimiting is not enabled for /api/values 
+2021-01-08 21:11:29.3680||INFO|Ocelot.Authentication.Middleware.AuthenticationMiddleware|requestId: 0HM5JQRKISDUN:00000001, previousRequestId: no previous request id, message: No authentication needed for /customers 
+2021-01-08 21:11:29.3999||INFO|Ocelot.Authorisation.Middleware.AuthorisationMiddleware|requestId: 0HM5JQRKISDUN:00000001, previousRequestId: no previous request id, message: /api/values route does not require user to be authorised 
+2021-01-08 21:11:30.1021||INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1057.6323ms 200 application/json; charset=utf-8 

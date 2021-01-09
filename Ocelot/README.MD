@@ -10,9 +10,6 @@ dotnet run
 - ProductsAPIServices:	http://localhost:9002/api/products/
 
 ## JWT Authentication
-```
-dotnet run
-```
 - Author Server:		http://localhost:9009
 						test account: admin/admin
 - CustomersAPIServices: http://localhost:9001/api/customers/ (authorized)
@@ -33,3 +30,8 @@ dotnet run
 						Customer - 1
 						
 ## Logging
+- CustomersServices: 	http://localhost:9001/api/values
+						http://localhost:9001/api/values/1
+- APIGateway: 			http://localhost:9000/customers
+						http://localhost:9000/customers/123
+
