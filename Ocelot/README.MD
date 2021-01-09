@@ -35,3 +35,9 @@ dotnet run
 - APIGateway: 			http://localhost:9000/customers
 						http://localhost:9000/customers/123
 
+## Rate Limit
+- API Services:			http://localhost:9001/api/values
+- API Gateway:			http://localhost:9000/customers (trigger request within 5 seconds to observe the 429 status code)
+
+## 
+- 
