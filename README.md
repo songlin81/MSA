@@ -1,6 +1,5 @@
 # Microservice Service Discovery Patterns with ASP.NET Core
-
-This repo contains Service Discovery patterns with ASP.NET Core using tools like [Consul](https://www.consul.io) and [RabbitMQ](http://www.rabbitmq.com/).
+### Using tools like [Consul](https://www.consul.io) and [RabbitMQ](http://www.rabbitmq.com/).
 
 ### Patterns Covered
 - [Point to Point](ServiceDiscovery/PointToPoint)
@@ -37,3 +36,7 @@ This repo contains Service Discovery patterns with ASP.NET Core using tools like
 - [Service Discovery Consul](Ocelot/APIGatewayConsulDemo)
 - [Swagger](Ocelot/APIGatewaySwaggerDemo)
 - [Request Aggregation](Ocelot/RequestAggregationDemo)
+
+
+# CQRS
+- [SQLite](CQRS/CustomerApi)
