@@ -46,6 +46,3 @@
 				  "age": 12
 				}
 		- Get: http://localhost:58752/api/Customers/1
-
-## 
-

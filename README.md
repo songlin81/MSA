@@ -40,3 +40,5 @@
 
 # CQRS
 - [SQLite](CQRS/CustomerApi)
+- [MongoDB with SQLite](CQRS/CustomerApiMongo)
+- [Event Source](CQRS/CustomerApiEventSource)

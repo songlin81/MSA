@@ -1,0 +1,6 @@
+C:\Users\diogo\source\repos\CustomerApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Work\CustomerApi\bin\Debug\CustomerApi.dll
+C:\Users\diogo\OneDrive\Work\CustomerApi\bin\Debug\CustomerApi.pdb
+C:\Users\diogo\OneDrive\Work\CustomerApi\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\diogo\OneDrive\Work\CustomerApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Work\CustomerApi\obj\Debug\docker-compose.dcproj.CopyComplete
